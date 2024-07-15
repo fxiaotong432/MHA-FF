@@ -27,4 +27,4 @@ The code is written in Python and requires the following packages:
 * Numpy 1.21.2 
 * Pandas 1.3.4 
 * Sklearn 1.1.3
-* Scipy 1.8.1
+* Scipy 1.7.1
