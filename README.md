@@ -1,4 +1,4 @@
 # MHA-FF
-Code for the article 'Adaptive Fusion of Radiomics and Deep Features for Lung Adenocarcinoma Subtype Recognition'.
+Code for the article 'MHA-FF: A Multi-Head Attention Model for Adaptive Fusion of Heterogeneous Features in Lung Nodule Classification'.
 
 Will be updated soon.
