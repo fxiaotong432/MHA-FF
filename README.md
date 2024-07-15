@@ -9,6 +9,8 @@ The effectiveness of our proposed method is demonstrated using real-world data c
 
 ## Model
 Figure 1 shows the flowchart of the proposed MHAFF. 
+
+
 ![Model.png](https://github.com/fxiaotong432/MHA-FF/blob/main/Model.png)
 
 The input is an array of CT images with regard to a specific patient, with nodule centers manually labelled, in advance. The input is first passed through two modules (A and B), in parallel. Module A involves knowledge-driven radiomics feature extraction, while Module B involves data-driven deep feature extraction. Next, both the radiomics and deep features are fed into a multi-head attentional block (i.e., module C) for feature fusion. The final probabilistic prediction of LUAD subtype (i.e., HDA, MDA, and PDA) is obtained by mean pooling plus softmax activation.  
