@@ -1,5 +1,5 @@
 # MHA-FF
-This repository contains the code for **MHA-FF: A Multi-Head Attention Model for Adaptive Fusion of Heterogeneous Features in Lung Nodule Classification**
+This repository contains the code for **MHA-FF: A Multi-Head Attention Model for Adaptive Fusion of Heterogeneous Features in Lung Nodule Classification**.
 ## Introduction
 In medical scenarios, image classification using heterogeneous feature poses a significant challenge. This is especially pertinent in lung cancer diagnosis, where accurately distinguishing between pre-invasive lung adenocarcinoma (Pre-IAs) and invasive adenocarcinoma (IAs), as well as classifying the subtypes of IAs, is crucial. 
 
